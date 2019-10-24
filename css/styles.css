@@ -2,6 +2,10 @@ body {
   background-color: lightgreen;
 }
 
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
 .btn {
   display: block;
   background-color: cornflowerblue;
