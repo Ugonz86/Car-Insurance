@@ -1,7 +1,27 @@
+body {
+  background-color: lightgreen;
+}
+
 .btn {
   display: block;
+  background-color: cornflowerblue;
+  margin-top: 25px;
+  color: white;
 }
 
 #quote {
   display: none;
+}
+
+#gender-label {
+  margin-left: 25px;
+}
+
+h1, p {
+  margin: 25px auto;
+}
+
+#rate {
+  font-weight: bold;
+  font-size: 20px;
 }
